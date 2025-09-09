@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+cryptography
+pydantic
+azure-identity
+azure-keyvault-keys
+PyMySQL
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+requests
+slowapi
+bleach
+email-validator
