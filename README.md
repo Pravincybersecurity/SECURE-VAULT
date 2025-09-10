@@ -145,6 +145,4 @@ If you encounter errors when executing, remove the quotes and type the values ma
 
 Once updated, logging in with this account will provide access to the **Admin Dashboard**.
 
----
 
-Do you also want me to create a **shorter version** of this README (one-page summary) for your GitHub front page, while keeping this detailed one inside a `docs/SETUP.md` file? That way the repo looks cleaner for visitors.
